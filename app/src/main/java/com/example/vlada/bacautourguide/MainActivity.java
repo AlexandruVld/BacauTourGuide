@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
         ViewPager viewPager = findViewById(R.id.viewpager);
 
+        viewPager.setOffscreenPageLimit(4);
+
         ContentAdapter adapter = new ContentAdapter(this, getSupportFragmentManager());
 
         viewPager.setAdapter(adapter);
