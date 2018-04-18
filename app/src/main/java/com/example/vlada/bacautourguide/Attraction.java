@@ -6,9 +6,7 @@ public class Attraction {
     private String mTitle;
     private int mImageResourceId;
 
-
      //Create a new object.
-
     public Attraction(String title, String description, int imageResourceId) {
         mTitle = title;
         mDescription = description;
