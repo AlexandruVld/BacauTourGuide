@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">BacauTourGuide</string>
+
+    <string name="attraction_preview">Attraction Preview</string>
+    <string name="title">Title</string>
+    <string name="details">Details</string>
+
+    <!--Tabs Strings-->
+    <string name="hotels">Accommodation</string>
+    <string name="culture">Cultural Sights</string>
+    <string name="nature_sights">Nature Sights</string>
+    <string name="leisure">Leisure</string>
+
+    <!--Accommodation-->
+    <string name="hotel_dumbrava">Dumbrava Hotel</string>
+    <string name="hotel_dumbrava_description">As a guest of Dumbrava Hotel, you will enjoy 4-stars comfort and refinement, which will turn the moments spent with us into pleasant memories.
+        Dumbrava Hotel is situated downtown Bacau, yet away from the urban noise. The hotel is surrounded by a park decorated by us, which we like to say about that is the Versailles of Bacau, offering to the rooms a wonderful view.
+        Located in a major shopping district, the hotel can be easily spotted.
+        At the same time, the hotel is at short distance walk from the city sports complex where you can find rooms for athletics, swimming pools, the stadium, tennis courts, etc.
+        The distance between the hotel and “George Enescu” International Airport is of 6 km and to the railway station of only 3 km.</string>
+    <string name="hotel_decebal">Decebal Hotel</string>
+    <string name="hotel_decebal_description">Located in the center of Moldavia, in the city of Bacău, Decebal Hotel is a landmark for the travel of Romanian or foreign businessmen in the eastern part of Romania.
+        The capacity of the hotel is 190 seats in 61 double rooms, 28 rooms with matrimonial bed and 6 suites.
+        The hotel complex includes a restaurant with 250 seats, a 50-seat lobby bar and a café.
+        Decebal Hotel is located at the 0 km of Bacau, being recognized by all its clients as a welcoming hotel.
+        The hotel is set in an important commercial area, with the Financial Administration, the City Hall and other public institutions in close proximity.</string>
+    <string name="hotel_moldova">Moldova Hotel</string>
+    <string name="hotel_moldova_description">Moldova Hotel facilitates business meetings in 5 ultramodern arranged rooms.
+        Moldova Restaurant offers you unforgettable evenings, with very fine drinks and exceptional dishes.
+        The rooms are modernly arranged with internet access, international line, cable TV, minibar and conditioned air.
+        Moldova Hotel offers to his costumers a large gammet of services like:
+        plane tickets reservation, credit cards, value deposits, luggage keeping, touristic information, forgotten objects, taxi, parking.</string>
+    <string name="hotel_president">President Hotel</string>
+    <string name="hotel_president_description">Located in downtown Bacau city, a 10 - minute drive from the airport and a 20 - minute walk from the railway station, President Hotel Bacau is the first hotel in Bacau to receive Four Star rating from the local tourist office.
+        The hotel is situated centrally in the city, allowing easy access any point of interest in the city in such a short time.
+        Whether in Bacau for business or leisure, President Hotel will do it’s very best to meet your needs.
+        President Hotel consists of 32 rooms and suites, modernly equipped, distinguished by its design  in different tones and colours, not only through its decorative details but also through its finely executed hardwood furniture.
+        Furthermore, in one of the two restaurants, either Opera or Royal, you can enjoy the international and traditional specialties, but also the main chef’s cuisines,
+        a wide variety of dishes that emphasize the skill and passion of the chefs and also the great care to cope with the diversity of culinary preferences that clients may have.</string>
+    <string name="hotel_helen">Helen Hotel</string>
+    <string name="hotel_helen_description">Helen Hotel, a 4 star hotel, located in a beautiful pine forest about 5 km from Bacau, Romania. A place where time disappears and makes space for the most intense and warm experiences.
+        Each room is different. There is a place where the body relaxes and enjoys anticient massages and therapies.
+        There is an amazing place where you can enjoy nature’s best tastes and a place where you can listen to the woods</string>
+
+    <!--Culture-->
+    <string name="bacovia_house">George Bacovia Memorial House</string>
+    <string name="bacovia_house_description">George Bacovia Memorial House is the starting point for any cultural itinerary in Bacau.
+        It is located in the immediate surroundings of the monumental statue of Steven the Great, on the former Liceului street, presently George Bacovia street, at no. 13.
+        Symbolist poet, rediscovered by exegetes in multiple stylistic aspects, by bibliographers as a precious object of study and by the simple poetry lovers as well, George Bacovia, although gone for about half a century, is part of our life.
+        George Bacovia memorial House was inaugurated on October 1st, 1971.
+        The house has got six “wagon” style rooms, a part of princeps edition manuscripts being kept here, (for example: “Plumb” – 1916, “Yellow sparkles” – 1926, “With you” – 1930, “Basically comedies” – 1936, “Burgeois stanzas” – 1946) and books with the poet’s works in foreign languages.</string>
+    <string name="stirbei_castle">Stirbei Castle</string>
+    <string name="stirbei_castle_description">The Castle belonged to the Stirbei family till the end of the Second World War and than about 30 years here there was a sanatorium for the tuberculosis ill persons. Than, the castle became a children camp.  The Castle has been built upon the request of the Gheorghe Stirbei prince (ex politician who died in 1916), at the beginning of the 20th century.
+        He has chosen the Maguricea hill for the picturesque region, located on the left of the Valley of Uzu.
+        The castle has been built by workers brought from Italy, based on the plans of the architect Nicolae Ghica Dudesti.
+        The building has a ground floor and two floors. In the main body of the building, there were the so-called official rooms, with a reception area, with a large saloon, a living room and offices. Still here, there is a greenhouse, and also the main staircase.</string>
+    <string name="enescu_house">Rosetti Enescu Memorial House</string>
+    <string name="enescu_house_description">The residence of the family Rosetti Tecsanu was built in 1880 and was the residence of George Enescu.
+        It became a cultural place, in conformity with the act of donation made by Maria Rosetti Enescu in 1947.
+        In 1993 the residence became a cultural center called "Rosetti Tescanu - George Enescu" and reamains till nowadays a residence for artists an for contemporary art.</string>
+    <string name="precista_church">Precista Church</string>
+    <string name="precista_church_description">The “Precista” Church, the patron of which is the Assumption of the Blessed Virgin Mary, part of the architectonic complex of the royal courts of Bacău, was built during the reign of Ştefan cel Mare, by his son, Alexandru, and was dedicated on 1 January 1491.
+        Built of stone and bricks, in the specific style of Ştefan cel Mare’s time, the 25.68m long church is very well proportioned, slim, clubs-shaped and has a tower. The narthex is 8.12 m wide, whereas at absides level the church is 11.24 m wide.
+        The “Precista” Church survived the centuries and it underwent a series of transformations and repairs carried out in the 17th century, during the reign of Vasile Lupu.
+        The church also shelters a tomb stone of 1636, which belonged to the princess Cristina, the wife of prince Mihai Fotena Postelnic, one of the church’s founders.</string>
+    <string name="iulian_antonescu_museum">Iulian Antonescu Museum Complex</string>
+    <string name="iulian_antonescu_description">The museum, established in 1957, had three departments since 1959: history, natural sciences and art. In 1960, the museum moved into a monumental building at the entrance to the Liberty Park, which was demolished after ten years.
+        In the current new building, there are on display archaeological artefacts: Paleolithic material (from Buda, Lespezi), Neolithic ones and from the Bronze Age, Hallstatt finds (the weapons and ornaments deposit from the cemetery of Gioseni), mediaeval finds from the Princely Court in Bacău.
+        Numismatics: Dacian, Roman, and Byzantine coin hoards; local history: documents, jewels (dating from the 17th - 18th centuries), cups belonging to the Princes Mihail Sturdza and Al. I. Cuza, documents on the Independence War of 1877 and World War I (uniforms, orders, medals).
+        The Ethnography Department presents collections representative for the ethnographic areas of the Central Moldavian Plateau, Trotuş and Bacău: fabrics, rugs, folk costumes, domestic artifacts.
+        The museum also shelters documents on the history of literature, as well as a library of 9,000 volumes.</string>
+
+    <!--Nature-->
+    <string name="cancicov_park">Cancicov Park</string>
+    <string name="cancicov_park_description">The Cancicov Park, one of the most precious jewels of Bacau, is a green lung much loved by nature lovers to relax, play sports or walking outdoors.
+        Laid out on 24 acres, is the largest green area in the city center of Bacau.</string>
+    <string name="roses_park">Roses Park</string>
+    <string name="roses_park_description">The Parcul Trandafirilor, Rose Park, covers an area of one hectare and is the oldest park in Bacau, dating back to 1850.
+        Here you can see multicolored roses, willows and a copy of the rare species of Ginkgo biloba.</string>
+    <string name="serbanesti_lake">Serbanesti Lake</string>
+    <string name="serbanesti_lake_description">The lake has an area of ​​202 hectares and consists of a maze of islands with reeds. This reserve is important for the nesting of many different species who find their natural habitat.
+        Classified 147 different species of birds, 34 of mammals, reptiles and amphibians and 22 species of fish.</string>
+    <string name="adventure_park_magura">Magura Adventure Park</string>
+    <string name="adventure_park_magura_description">The Magura Adventure Park guarantees fun and relaxation for everyone. Whether they come in group, class or family, here they will live unforgettable moments in an original activity, a good way to relax, provoke you, discover new sensations together.
+        The park was designed with progressive difficulty routes (easy, medium and difficult), each route being symbolized by specific colors: purple, yellow, green, blue, red, black. All activity takes place in the forest area, which brings a state of "refresh" in the body.</string>
+    <string name="slanic_park">Slanic Moldova Park</string>
+    <string name="slanic_park_description">Slănic Moldova Central Park has an area of 4.16 hectares and offers to tourists the possibility to spend time in a lovely environment, contributing, at the same time, at the positive image of the resort.
+        Constantly and carefully taken care of by local administration, the resort Park includes alleys laid out with benches amidst tall trees and colorful flowers, a gazebo built in the same architectural style as the whole ensemble of the Casino, fountains and anthrop falls, busts of Romanian cultural personalities, a modern playground for children, wireless internet.</string>
+
+    <!--Leisure-->
+    <string name="valhalla">Valhalla Brewery</string>
+    <string name="valhalla_description">The Valhalla Brewery always creates the same pleasant and cheerful spirit with the same coordinates: atmosphere, beer and friends.
+        Take a boat full of Vikings and fit into a large pot of rich and cosmopolitan history, just like Bacau. Carefully collect stories of goodies in the world, then pour all in the pot in good mixing. He spices with good will, with no secret, no joke, and a glass of the best! Allow the composition to slowly boil over low heat. When it's almost ready, it tastes to check if their memories and their sharing are pretty ripe. Remove them from the pot and serve them fresh in worthy quantities on huge wooden platters.</string>
+    <string name="noblesse">Noblesse Restaurant</string>
+    <string name="noblesse_description">Located on Trotuş Street, across from the Astronomical Observatory, CASA NOBLESSE turns any meal into a real feast.
+        The restaurant with Romanian specific offers to those who pass the threshold food as the mother at home as well as selected dishes from international cuisine.
+        Its strong point is the terrace with its pebbles. The summer garden offers intimacy with flower smell and natural view. Cozy and colorful, the terrace awaits you to cool on hot summer days with fresh and other beverages.
+        Family or business events can be easily organized inside the restaurant, featuring two lounges.</string>
+    <string name="latin">Latin Restaurant</string>
+    <string name="latin_description">Located in the center of Unirii Boulevard close to St. Nicholas Church. Here is the only place in the city of Bacau where you can find a Chinese cuisine and if you have not tried Chinese food so far, it\'s time to do it.</string>
+    <string name="mauro">Mauro\'s Pub</string>
+    <string name="mauro_description">Located in the heart of Bacau, "Mauro\'s Pub &amp; More" is the place where the concept of Pub, Live Music and DJ blends.
+        With more than affordable prices, here you can enjoy the most appreciated varieties of beer from the famous Paulaner range, quality whiskeys, wine and drinks on all tastes. And if the stomach demands its rights, you can serve typical Bavarian meals, and not only in generous portions.</string>
+    <string name="president">President Restaurant</string>
+    <string name="president_description">The President Terrace is located on the fifth floor of the hotel, offering a spectacular panoramic view of the city, representing the ideal place to relax and spend unforgettable moments.</string>
+</resources>

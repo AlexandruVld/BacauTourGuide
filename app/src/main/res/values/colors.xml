@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App bar color of the app -->
+    <color name="primary_color">#010320</color>
+
+    <!-- Status bar color of the app -->
+    <color name="primary_dark_color">#2962FF</color>
+
+    <!-- Background color for app -->
+    <color name="background_color">#4d7cff</color>
+
+    <!-- Background color for the restaurants list_item list -->
+    <color name="accommodation">#0a5e0b</color>
+
+    <!-- Background color for the museums_item list -->
+    <color name="cultural_sights">#D50000</color>
+
+    <!-- Background color for the parks list_item list -->
+    <color name="nature_sights">#0b0379</color>
+
+    <!-- Background color for the architecture list_item list -->
+    <color name="leisure">#055858</color>
+
+    <!-- Text color for the list_item list -->
+    <color name="list_item_color">#FFF7DA</color>
+
+    <color name="category_tab_text_color">#A8A19E</color>
+</resources>
