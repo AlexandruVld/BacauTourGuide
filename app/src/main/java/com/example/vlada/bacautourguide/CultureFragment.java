@@ -28,7 +28,7 @@ public class CultureFragment extends Fragment {
         attractions.add(new Attraction(getString(R.string.stirbei_castle), getString(R.string.stirbei_castle_description), R.drawable.stirbeicastle));
         attractions.add(new Attraction(getString(R.string.enescu_house), getString(R.string.enescu_house_description), R.drawable.enescu));
         attractions.add(new Attraction(getString(R.string.precista_church), getString(R.string.precista_church_description), R.drawable.precista));
-        attractions.add(new Attraction(getString(R.string.iulian_antonescu_museum), getString(R.string.iulian_antonescu_description), R.drawable.iulianantonescumuseum));
+        attractions.add(new Attraction(getString(R.string.iulian_antonescu_museum), getString(R.string.iulian_antonescu_description), R.drawable.iulianantonescu));
 
         // Create the AttractionAdapter
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), attractions);
