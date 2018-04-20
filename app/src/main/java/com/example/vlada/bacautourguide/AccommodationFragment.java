@@ -27,7 +27,7 @@ public class AccommodationFragment extends Fragment {
         attractions.add(new Attraction(getString(R.string.hotel_decebal), getString(R.string.hotel_decebal_description), R.drawable.decebal));
         attractions.add(new Attraction(getString(R.string.hotel_moldova), getString(R.string.hotel_moldova_description), R.drawable.moldova));
         attractions.add(new Attraction(getString(R.string.hotel_dumbrava), getString(R.string.hotel_dumbrava_description), R.drawable.dumbrava));
-        attractions.add(new Attraction(getString(R.string.hotel_president), getString(R.string.hotel_president_description), R.drawable.presiden));
+        attractions.add(new Attraction(getString(R.string.hotel_president), getString(R.string.hotel_president_description), R.drawable.president));
         attractions.add(new Attraction(getString(R.string.hotel_helen), getString(R.string.hotel_president_description), R.drawable.helen));
 
         // Create the AttractionAdapter

@@ -27,7 +27,7 @@ public class LeisureFragment extends Fragment{
         attractions.add(new Attraction(getString(R.string.noblesse), getString(R.string.noblesse_description), R.drawable.noblesse));
         attractions.add(new Attraction(getString(R.string.latin), getString(R.string.latin_description), R.drawable.latin));
         attractions.add(new Attraction(getString(R.string.mauro), getString(R.string.mauro_description), R.drawable.mauro));
-        attractions.add(new Attraction(getString(R.string.president), getString(R.string.president_description), R.drawable.president));
+        attractions.add(new Attraction(getString(R.string.president), getString(R.string.president_description), R.drawable.presidentres));
 
         // Create the AttractionAdapter
         AttractionAdapter adapter = new AttractionAdapter(getActivity(), attractions);
